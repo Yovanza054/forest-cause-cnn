@@ -141,6 +141,10 @@ Per kelas (F1): pertanian 0,90 · jalan 0,94 · tebang_selektif 0,98 · tambang 
 
 Materi Sesi 6: *Pemantauan Deforestasi Menggunakan Citra Satelit dan Artificial Intelligence*, Dr. Bart Slachter, Wageningen University and Research.
 
-## 📄 Lisensi
+---
 
-MIT
+<div align="center">
+
+Yovanza Villareal - G1A023054
+
+</div>
