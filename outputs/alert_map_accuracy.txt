@@ -1,0 +1,1 @@
+akurasi peta alert: 0.800 dari 10 sel gangguan

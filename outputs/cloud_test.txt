@@ -1,0 +1,2 @@
+akurasi tanpa awan: 0.872
+akurasi dengan awan: 0.768

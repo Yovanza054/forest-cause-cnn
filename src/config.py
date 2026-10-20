@@ -1,0 +1,11 @@
+PATCH_SIZE = 32
+CHANNELS = 4
+CLASSES = ["pertanian", "jalan", "tebang_selektif", "tambang", "alami"]
+NUM_CLASSES = len(CLASSES)
+SAMPLES_PER_CLASS = 400
+CLOUD_PROB = 0.3
+EPOCHS = 25
+BATCH_SIZE = 64
+LEARNING_RATE = 0.002
+SEED = 42
+SCENE_SIZE = 128
